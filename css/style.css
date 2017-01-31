@@ -1,0 +1,49 @@
+﻿body {
+    margin: -20px;
+    padding: 0;
+}
+
+header {
+    padding: 1% 10%;
+    background-color: #E9E9E9;
+}
+
+.header-top-buttons figure {
+    display: inline;
+    margin-right: 5%;
+}
+
+.header-top-buttons a {
+    color: #145B7F;
+    font-size: 1.2em;
+}
+
+.header-top-buttons a:hover {
+    text-decoration: none;
+}
+
+/* Bootstrap */
+
+.navbar {
+    margin-top: 1%;
+    width: 100%;
+    padding: 0 9% 0;
+    position: absolute;
+    left: 0;
+}
+
+.navbar-default {
+    background-color: #454645;
+    border: none;
+    border-radius: 0;
+    color: #fff !important;
+}
+
+.navbar-default li a {
+    color: #549DCE !important;
+    font-weight: bold;
+}
+
+.nopadding {
+    padding: 0;
+}
