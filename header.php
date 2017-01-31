@@ -4,7 +4,42 @@
             <img src="images/logosmall.png" alt="logo" />
         </div>
         <div class="col-md-6 text-right header-top-buttons">
-            <figure>
+            
+            <ul>
+                <li>
+                    <a href="#">
+                        <i class="glyphicon glyphicon-user"></i>
+                        Logon to account
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="glyphicon glyphicon-envelope"></i>
+                        WebMail
+                    </a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Currency <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#"><img src="images/denmark.png" alt="logo" /> DKK</a></li>
+                        <li><a href="#"><img src="images/sweden.png" alt="logo" /> SEK</a></li>
+                        <li><a href="#"><img src="images/norway.png" alt="logo" /> NOK</a></li>
+                        <li><a href="#"><img src="images/eu.png" alt="logo" /> EURO</a></li>
+                        <li><a href="#"><img src="images/uk.png" alt="logo" /> GBR</a></li>
+                        <li><a href="#"><img src="images/us.png" alt="logo" /> USD</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Language <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#"><img src="images/denmark.png" alt="logo" /> DK</a></li>
+                        <li><a href="#"><img src="images/uk.png" alt="logo" /> EN</a></li>
+                    </ul>
+                </li>
+            </ul>
+            
+            
+           <!-- <figure>
                 <a href="#">
                     <i class="glyphicon glyphicon-user"></i>
                     Logon to account
@@ -15,7 +50,7 @@
                     <i class="glyphicon glyphicon-envelope"></i>
                     WebMail
                 </a>
-            </figure>
+            </figure>-->
         </div>
     </div>
     

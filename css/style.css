@@ -1,6 +1,7 @@
 ﻿body {
     margin: -20px;
     padding: 0;
+    overflow-x: hidden;
 }
 
 header {
@@ -8,7 +9,11 @@ header {
     background-color: #E9E9E9;
 }
 
-.header-top-buttons figure {
+.header-top-buttons ul {
+    padding-top: 3%;
+}
+
+.header-top-buttons ul li {
     display: inline;
     margin-right: 5%;
 }
@@ -22,8 +27,11 @@ header {
     text-decoration: none;
 }
 
-/* Bootstrap */
+.header-top-buttons img {
+    max-width: 20%;
+}
 
+/* rewriting Bootstrap rules */
 .navbar {
     margin-top: 1%;
     width: 100%;
@@ -43,6 +51,7 @@ header {
     color: #549DCE !important;
     font-weight: bold;
 }
+/* End of rewriting Bootstrap rules */
 
 .nopadding {
     padding: 0;
