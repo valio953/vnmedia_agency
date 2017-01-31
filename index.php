@@ -38,12 +38,12 @@
     </head>
     <body>
         <?php include_once("header.php");?>
-
+    <br>
+    <br>
     <section id="products">
-                <div class="col-centered col-lg-12">
                   <div class="pricing-tables attached ">
                     <div class="row ">
-                      <div class="col-sm-3 col-md-3 col-lg-3">
+                      <div class="col-sm-12 col-md-2 col-lg-2 col-md-offset-1 col-lg-offset-1">
                         <div class="plan  first">
                           <div class="head">
                             <h2>Domain</h2>
@@ -69,7 +69,7 @@
                         </div>
                       </div>
 
-                      <div class="col-sm-3 col-md-2 col-lg-2">
+                      <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="plan first recommended">
                           <div class="head">
                             <h2>PHP Basic</h2>
@@ -91,10 +91,10 @@
                             <h3>9.04 <span>DKK</span></h3>
                             <h4>per month</h4>
                           </div>
-                          <a class="btn-clean btn-pad" href="index.html#contact">Order Now <i class="ion-ios-unlocked-outline"></i></a>
+                          <a class="btn-clean btn-pad" href="http://www.webhosting.dk/ENG/createoffernewadddomain.php?orderphpbasic=J&tdomain=x&newsystemfilter=&newbackupmaster=&redel=&newpopaccounts=&newmaxalias=&newsuperpack=&urlforwarderpro=">Order Now <i class="ion-ios-unlocked-outline"></i></a>
                         </div>
                       </div>
-                      <div class="col-sm-3 col-md-2 col-lg-2">
+                      <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="plan recommended">
                           <div class="head">
                             <h2>PHP Medium</h2>
@@ -116,10 +116,10 @@
                             <h3>24.98 <span>DKK</span></h3>
                             <h4>per month</h4>
                           </div>
-                          <a class="btn-clean btn-pad" href="index.html#contact">Order Now <i class="ion-ios-unlocked-outline"></i></a>
+                          <a class="btn-clean btn-pad" href="http://www.webhosting.dk/ENG/createoffernewadddomain.php?orderphplite=J&newhtpasswd=&newssl=&tdomain=x&newsystemfilter=&newbackupmaster=&redel=&newpopaccounts=&newmaxalias=&newsuperpack=&urlforwarderpro=">Order Now <i class="ion-ios-unlocked-outline"></i></a>
                         </div>
                       </div>
-                      <div class="col-sm-3 col-md-2 col-lg-2">
+                      <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="plan last recommended">
                           <div class="head">
                             <h2>PHP Business</h2>
@@ -141,10 +141,10 @@
                             <h3>49.88 <span>DKK</span></h3>
                             <h4>per month</h4>
                           </div>
-                          <a class="btn-clean btn-pad" href="index.html#contact">Order Now <i class="ion-ios-unlocked-outline"></i></a>
+                          <a class="btn-clean btn-pad" href="http://www.webhosting.dk/ENG/createoffernewadddomain.php?orderphplite=N&newhtpasswd=&newssl=&tdomain=x&newsystemfilter=J&ordergrundprisphp=J&newmysql=J&newbackupmaster=&redel=&newpopaccounts=&newmaxalias=&newsuperpack=&urlforwarderpro=">Order Now <i class="ion-ios-unlocked-outline"></i></a>
                         </div>
                       </div>
-                      <div class="col-sm-12 col-md-3 col-lg-3">
+                      <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="plan last">
                           <div class="head value">
                             <h2>Mail Hosting</h2>
@@ -156,8 +156,6 @@
                               <strong>10 IMAP/POP3 accounts</strong></li>
                             <li>
                               <strong>50 e-mail addresses</strong></li>
-                            <li>
-                              <strong>User your PC / mobile</strong></li>
                               <li>
                                 <strong>Advanced webmail</strong></li>
                               <li>
@@ -175,10 +173,39 @@
                     <!-- row-->
                   </div>
                   <!-- pricing-tables -->
-                </div>
-                <br>
-
+                  <div class="row">
+                    <div class="col-lg-12 text-center">
+                      <a href="http://www.webhosting.dk/ENG/productmatrix.php?language=ENG" class="btn btn-warning btn-lg">Compare products</a>
+                    </div>
+                  </div>
+                <br></br>
               </section>
+
+      <footer>
+        <div class="row" id="stfooter">
+          <div class="col-lg-6  col-md-6 col-sm-6">
+          <ul>
+              <li><a href="http://support.webhosting.dk/ENG" target="_blank">Support section</a></li>
+              <li><a href="http://www.webhosting.dk/ENG/createaccount.php" target="_blank">Create account</a></li>
+              <li><a href="http://www.webhosting.dk/ENG/createoffernew.php" target="_blank">View pricelist</a></li>
+              <li><a href="http://www.webhosting.dk/ENG/createoffernew.php" target="_blank">Create order</a></li>
+              <li><a href="http://www.webhosting.dk/ENG/accountsend.php" target="_blank">Forgot password ?</a></li>
+              <li><a href="http://www.webhosting.dk/ENG/sendemail.php" target="_blank">Contact us</a></li>
+         </ul>
+         </div>
+         <div class="col-lg-6  col-md-6 col-sm-6">
+           <p> Social networking</p>
+           <a href="http://www.facebook.com/webhosting.dk" target="_blank"><img src="images/fb.png" alt=""></a>
+           <a href="https://twitter.com/webhostingdk" target="_blank"><img src="images/twitter.png" alt=""></a>
+         </div>
+       </div>
+       <div class="row">
+         <div class="col-lg-12">
+         <p>WebHosting A/S, CVR 25674138, © 1996 - 2017</p>
+         <p>© VN media</p>
+        </div>
+      </div>
+    </footer>
 
     </body>
 </html>

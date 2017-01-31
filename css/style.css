@@ -204,3 +204,20 @@ header {
       line-height: 1;
   }
 }
+
+footer {
+  background-color: #454645;
+  text-align: center;
+}
+
+footer p {
+  color:#e6e9ed !important;
+}
+
+footer a{
+  color:#e6e9ed;
+}
+
+#stfooter {
+  padding-top: 10px;
+}
