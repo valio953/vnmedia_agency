@@ -137,12 +137,12 @@ header {
   width: 80%;
 }
 .plan .price h3 {
-  font-size: 62px;
+  font-size: 42px;
   vertical-align: top;
   line-height: 1;
 }
 .plan .price h3 span {
-  font-size: 38px;
+  font-size: 28px;
   vertical-align: top;
   position: relative;
   margin: 6px 0 0 -7px;

@@ -50,13 +50,15 @@
                           </div>
                           <ul class="item-list">
                             <li>
-                              <strong> Buliding  </strong>One time scraping</li>
+                              <strong>Lowest prices</strong></strong></li>
                             <li>
-                              <strong>$xxx4xxx</strong></li>
+                              <strong>FREE DNS hosting</strong></li>
                             <li>
-                              <strong>NIL</strong> </li>
+                              <strong>Many different types</strong></li>
                             <li>
-                              <strong>Third party services</strong> As per use, will be added to bill</li>
+                              <strong>Advanced DNS manager</strong></li>
+                              <li>
+                                <strong>Easy upgrade</strong></li>
                           </ul>
                           <div class="price mediafix">
                             <h4>From only</h4>
@@ -74,13 +76,15 @@
                           </div>
                           <ul class="item-list">
                             <li>
-                              <strong> Buliding  </strong>One time scraping</li>
+                              <strong>5 Gb web space</strong></strong></li>
                             <li>
-                              <strong>$xxx4xxx</strong></li>
+                              <strong>10 Gb space for e-mail</strong></li>
                             <li>
-                              <strong>NIL</strong> </li>
+                              <strong>1 click WordPress, Joomla</strong></li>
                             <li>
-                              <strong>Third party services</strong> As per use, will be added to bill</li>
+                              <strong>All PHP/MySQL versions</strong></li>
+                              <li>
+                                <strong>256 Mb PHP memory limit</strong></li>
                           </ul>
                           <div class="price">
                             <h4>From under</h4>
@@ -97,13 +101,15 @@
                           </div>
                           <ul class="item-list">
                             <li>
-                              <strong> Buliding  </strong>One time scraping</li>
+                              <strong>10 Gb web space</strong></strong></li>
                             <li>
-                              <strong>$xxx4xxx</strong></li>
+                              <strong>30 Gb space for e-mail</strong></li>
                             <li>
-                              <strong>NIL</strong> </li>
+                              <strong>1 click WordPress, Joomla</strong></li>
                             <li>
-                              <strong>Third party services</strong> As per use, will be added to bill</li>
+                              <strong>All PHP/MySQL versions</strong></li>
+                              <li>
+                                <strong>512 Mb PHP memory limit</strong></li>
                           </ul>
                           <div class="price">
                             <h4>From under</h4>
@@ -120,13 +126,15 @@
                           </div>
                           <ul class="item-list">
                             <li>
-                              <strong> Buliding  </strong>One time scraping</li>
+                              <strong>20 Gb web space</strong></strong></li>
                             <li>
-                              <strong>$xxx4xxx</strong></li>
+                              <strong>60 Gb space for e-mail</strong></li>
                             <li>
-                              <strong>NIL</strong> </li>
+                              <strong>1 click WordPress, Joomla</strong></li>
                             <li>
-                              <strong>Third party services</strong> As per use, will be added to bill</li>
+                              <strong>All PHP/MySQL versions</strong></li>
+                              <li>
+                                <strong>512 Mb PHP memory limit</strong></li>
                           </ul>
                           <div class="price">
                             <h4>From under</h4>
@@ -143,13 +151,17 @@
                           </div>
                           <ul class="item-list">
                             <li>
-                              <strong> Buliding  </strong>One time scraping</li>
+                              <strong>30 Gb mail space</strong></strong></li>
                             <li>
-                              <strong>$xxx4xxx</strong></li>
+                              <strong>10 IMAP/POP3 accounts</strong></li>
                             <li>
-                              <strong>NIL</strong> </li>
+                              <strong>50 e-mail addresses</strong></li>
                             <li>
-                              <strong>Third party services</strong> As per use, will be added to bill</li>
+                              <strong>User your PC / mobile</strong></li>
+                              <li>
+                                <strong>Advanced webmail</strong></li>
+                              <li>
+                                <strong>FREE URL forwarder</strong></li>
                           </ul>
                           <div class="price">
                             <h4>From under</h4>
