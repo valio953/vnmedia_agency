@@ -9,7 +9,7 @@
                 <li>
                     <a href="#">
                         <i class="glyphicon glyphicon-user"></i>
-                        Logon to account
+                        Login
                     </a>
                 </li>
                 <li>

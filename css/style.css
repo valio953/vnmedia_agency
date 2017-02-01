@@ -57,7 +57,41 @@ header {
     padding: 0;
 }
 
+#sctn_aboutus {
+    background: url("../images/whbackgroundnew.jpg") no-repeat fixed center;
+    padding: 10% 20px;
+}
+
+#sctn_aboutus ul {
+    padding: 0;
+}
+
+.info-box {
+    background-color: rgba(69, 70, 69, .7);
+    width: 50%;
+    padding: 4% 7%;
+    color: #fff;
+}
+
+.info-box p, .info-box li, .info-box-absolute p {
+    font-size: 1.2em;
+}
+
+.info-box-absolute {
+    background-color: rgba(69, 70, 69, .7);
+    width: 50%;
+    padding: 2% 5%;
+    color: #fff;
+    position: absolute;
+    top: 27%;
+    right: 2%;
+}
+
 /* pricing table */
+#products {
+    padding-bottom: 2%;
+}
+
 .pricing-tables {
   padding: 20px;
 }
