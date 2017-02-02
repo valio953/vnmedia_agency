@@ -66,6 +66,11 @@ header {
     padding: 0;
 }
 
+#sctn_aboutus a {
+    color: #fff;
+    font-weight: bold;
+}
+
 .info-box {
     background-color: rgba(69, 70, 69, .7);
     width: 50%;
