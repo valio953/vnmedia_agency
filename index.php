@@ -5,7 +5,6 @@
             <link HREF="/IE8.css" REL="StyleSheet" TYPE="text/css">
         <![endif]-->
 
-        <meta name="norton-safeweb-site-verification" content="xo9qbg4a-l5zi50qameyixskmht7-p257-popwtc3b7-n1jwyvzpbfh6gyps6r-kjbhcbne6jncqc1wzzavrvsdujbxrsfi68gnz29af35abe4yrh9l9kqowla4ni0m-"/>
         <meta name="description" content="Webhosting Webhotel, Danmarks bedste webhotel. Vi tilbyder kvalitets webhoteller og domæner til lave priser."/>
         <meta name="keywords" content="Webhosting, webhotel, webhoteller, domæner, WordPress, Joomla, Magento"/>
         <meta name="robots" content="index,follow"/>
