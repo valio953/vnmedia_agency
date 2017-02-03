@@ -21,8 +21,8 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Currency <b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#"><img src="images/denmark.png" alt="logo" /> DKK</a></li>
-                        <li><a href="#"><img src="images/sweden.png" alt="logo" /> SEK</a></li>
+                        <li><a href="?cur=dkk"><img src="images/denmark.png" alt="logo" /> DKK</a></li>
+                        <li><a href="?cur=sek"><img src="images/sweden.png" alt="logo" /> SEK</a></li>
                         <li><a href="#"><img src="images/norway.png" alt="logo" /> NOK</a></li>
                         <li><a href="#"><img src="images/eu.png" alt="logo" /> EURO</a></li>
                         <li><a href="#"><img src="images/uk.png" alt="logo" /> GBR</a></li>
@@ -90,3 +90,4 @@
         </div><!-- /.navbar-collapse -->
     </nav>
 </header>
+

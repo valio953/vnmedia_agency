@@ -10,7 +10,6 @@
         <meta name="keywords" content="Webhosting, webhotel, webhoteller, domæner, WordPress, Joomla, Magento"/>
         <meta name="robots" content="index,follow"/>
         <meta name="GOGGLEBOT" content="index,follow"/>
-        <meta http-equiv="imagetoolbar" content="no"/>
         <meta name="verify-v1" content="h+NnTjzEHM+4ipnqh7kNa9Neg3zvHIbli1XRskGmdYU=" />
         <meta name="revisit" content="4 days"/>
         <meta name="Copyright" content="Webmaster"/>
@@ -21,7 +20,6 @@
         <meta name="robots" content="ALL"/>
         <meta name="distribution" content="global"/>
         <meta name="author" content="webhosting.dk"/>
-        <meta http-equiv="Content-language" content="da"/>
         <meta name="DC.title" content="WebHosting A/S - Webhotel, billigt, godt og effektivt"/>
         <meta name="DC.description" content="webhotel, domain, domæne,webhosting, billigt, gratis, lavpris, autoresponder, email, imap, pop3, smtp, server, virtual, registrering, registration, com,org,net,info,dk,internet,mailhotel,php,php4,asp,frontpage, drupal,magento"/>
         <meta name="DC.subject" content="Lavpris domains, webhosting siden 1996, Joomla 1 klik installation, bedste service"/>
@@ -124,7 +122,7 @@
                             </div>
                             <ul class="item-list">
                                 <li>
-                                    <strong>5 Gb web space</strong></strong>
+                                    <strong>5 Gb web space</strong>
                                 </li>
                                 <li>
                                     <strong>10 Gb space for e-mail</strong></li>
@@ -150,7 +148,7 @@
                             </div>
                             <ul class="item-list">
                                 <li>
-                                    <strong>10 Gb web space</strong></strong>
+                                    <strong>10 Gb web space</strong>
                                 </li>
                                 <li>
                                     <strong>30 Gb space for e-mail</strong></li>
@@ -176,7 +174,7 @@
                             </div>
                             <ul class="item-list">
                                 <li>
-                                    <strong>20 Gb web space</strong></strong>
+                                    <strong>20 Gb web space</strong>
                                 </li>
                                 <li>
                                     <strong>60 Gb space for e-mail</strong></li>
@@ -202,7 +200,7 @@
                             </div>
                             <ul class="item-list">
                                 <li>
-                                    <strong>30 Gb mail space</strong></strong>
+                                    <strong>30 Gb mail space</strong>
                                 </li>
                                 <li>
                                     <strong>10 IMAP/POP3 accounts</strong></li>
